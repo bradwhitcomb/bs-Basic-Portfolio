@@ -23,6 +23,7 @@ body {
 	border-right-width: 10px;
 	color:black;
 	color:#4aaaa5;
+	
 }	
 /*.aboutme{
 	font-family: "Georgia",Times, Times New Roman, serif;
@@ -57,7 +58,9 @@ footer {
 	color:white;
 }
 
-
+.wrap {
+	float;left;
+}
 
 
 .contact{
@@ -93,6 +96,7 @@ h2 {
 }
 .header{
 	background-color:peru;
+	color:#4aaaa5;
 }
 .selfie{
 	height:500px;
@@ -105,9 +109,11 @@ h2 {
 	color:green;
 }
 
-/*.testportfoliorow{
-	background-color: red;
-	float:left;*/
+.test1{
+	border:5px solid black;
+	text-align: 
+	
+	
 }
 
 }
