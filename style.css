@@ -13,7 +13,7 @@ body {
 }
 .portfolio{
 	font-family: "Georgia",Times, Times New Roman, serif;
-	font-size:16px;
+	font-size:18px;
 	background-color:white;
 	width:650px;
 	height:514px;
@@ -22,8 +22,9 @@ body {
 	margin-left:10px;
 	border-right-width: 10px;
 	color:black;
-	color:#4aaaa5;
-	float:left;
+	color:grey;
+	padding-right: 25px;
+	
 	
 }	
 /*.aboutme{
@@ -87,8 +88,10 @@ h2 {
 	
 }
 .header{
-	background-color:peru;
 	color:#4aaaa5;
+	font-size: 24px;
+	font-family: "Georgia", Times, Times New Roman, serif;
+	margin-left:24px;
 }
 .selfie{
 	height:500px;
@@ -114,11 +117,17 @@ h2 {
 	float:left;*/
 }
 
-.testportfoliorow{
-	float:left;
+p {
+	font-size: 12px;
+	color: black;
 }
 
-
+.photo
+{ 
+border:5px solid grey; 
+border-left: 0px;
+margin-right: 10px;
+}
 
 
 
